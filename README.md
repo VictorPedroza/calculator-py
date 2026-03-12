@@ -7,6 +7,10 @@ Uma calculadora elegante e funcional desenvolvida em Python com interface gráfi
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 📸 Screenshots
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6437aa5d-d597-4613-bbcc-793b049ec2b2" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6ee5ee85-c47a-420c-93fe-1d43d5ea7e11" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/872bf5b2-4cd6-44c5-a0f6-eb42b51bc3ad" />
+
 
 ## ✨ Funcionalidades
 
