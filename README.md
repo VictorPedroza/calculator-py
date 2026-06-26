@@ -72,9 +72,9 @@ calculator-py/
 │   │   └── interface.py
 │   ├── service/             # Lógica de negócio
 │   │   └── logic.py
+│   ├── service/             # Utilitário e Funções Auxiliares
+│   │   └── logic.py
 │   └── main.py              # Arquivo principal de execução
-├── utils/                   # Utilitários e funções auxiliares
-│   └── util.py
 ├── .gitignore               # Arquivos ignorados pelo Git
 ├── LICENSE                  # Licença do projeto
 ├── README.md                # Documentação
